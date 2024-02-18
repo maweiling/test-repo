@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="selenium.base.base_page.utils" />
+          <option value="selenium.page.login.base_page" />
+          <option value="selenium.page.login.utils" />
+          <option value="selenium.webdriver.Chrome" />
+          <option value="test_js.selenium_js" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
